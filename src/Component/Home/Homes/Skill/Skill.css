@@ -1,0 +1,61 @@
+
+
+
+
+.skill{
+   
+}
+
+.content{
+    display :grid;
+    grid-template-rows: repeat(3fr,1fr);
+    grid-gap: 1.5rem;
+}
+.skill img{
+    height:50px;
+    width: 40px;
+}
+
+.mh-skills .mh-professional-skill{
+    padding-right:60px;
+    color:white;
+}
+
+.mh-skills .mh-professional-skill h3{
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 60px;
+    font-family: 'poppins', sans-serif;
+}
+
+.mh-professional-skills{
+  padding-left: 20%;
+}
+
+.mh-professional-skills h3{
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 60px;
+    font-family: 'poppins', sans-serif;
+
+    
+}
+
+.mh-professional-progress li{
+    display: inline-block;
+    margin: o auto;
+    float: none;
+    width:48;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.mh-progress{
+    margin-bottom: 10px;
+    font:900 1.14285/1 ;
+    color:white;
+}

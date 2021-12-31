@@ -1,0 +1,64 @@
+[
+    {   
+        "id":"1",
+        "name": "Homda CBR300R",
+        "image1": "./image/honda/honda.png",
+        "image2": "./image/honda/honda1.png",
+        "image3": "./image/honda/honda4.png",
+        "site":"https://tamal-hondacbr-f80900.netlify.app/",
+        "description":"1. Honda CBR300R is an upgraded version of the CBR250R. 2. The 300cc CBR carries a great design and uses its single cylinder 3.  engine to produce 30.4 BHP @ 8500 rpm and 27.1 Nm @ 7250 rpm. 4. It is actually the best substitute to the current gen. 5.this is all bike collection"
+    },
+    {   
+        "id":"2",
+        "name": "Hospital",
+        "image1": "./image/hospital/hospital.png",
+        "image2": "./image/hospital/fill.png",
+        "image3": "./image/hospital/full1.png",
+        "client":"https://github.com/tamal15/International-Hospital",
+        "site":"https://healthcare-hospital.web.app/",
+        "description":"1. Service website with google and email password login Feature 2. Users can see service details by clicking on each service. 3. Service rendered using fake data. 4.Appoointment And many service patient. 5. this is the helpful website 6.and many product use to customer order"
+    },
+    {   
+        "id":"3",
+        "name": "Bike Store",
+        "image1": "./image/bike/bike.png",
+        "image2": "./image/honda/bike1.png",
+        "image3": "./image/honda/bike2.png",
+        "site":"https://tamal-hondacbr-f80900.netlify.app/",
+        "server":"https://github.com/tamal15/bike-store-assignment_12",
+        "client":"https://github.com/tamal15/bike-store_client_site_ass-12",
+        "description":"1. Admin Control website & admin can add or remove any products and make an admin. 2. There is a Dashboard to manage the admin & user panel  3.E-commerce website google & email password login Feature 4,customer esaily service 5. and this service is very good 6. this customer details information are collected"
+    },
+    {   
+        "id":"4",
+        "name": "University",
+        "image1": "./image/versity/versity.png",
+        "image2": "./image/honda/bike1.png",
+        "image3": "./image/honda/bike2.png",
+        "site":"https://kind-gates-e9b165.netlify.app/",
+        "description":"1. International University is a private higher education institution . 2.located in Dhanmondi, Dhaka, Bangladesh. ... 3.The ranked within the top 400 universities in the world in the Times Higher Education University. 4.this is the many courses 5. and this course are helpful 6. the university are beautiful campus"
+    },
+    {   
+        "id":"5",
+        "name": "Travel",
+        "image1": "./image/travel/travel.png",
+        "image2": "./image/honda/bike1.png",
+        "image3": "./image/honda/bike2.png",
+        "site":"https://travel-agent-a24e1.web.app/",
+        "server":"https://github.com/tamal15/travel-agent-assignment-11",
+        "description":"1.Service website including admin panel add and remove services 2. google & login registration Features 3. Handle all orders including add services available 4. admin add service, status update 5. my order page only user see the service order"
+    },
+    {   
+        "id":"6",
+        "name": "Shop",
+        "image1": "./image/panda/panda1.png",
+        "image2": "./image/honda/bike1.png",
+        "image3": "./image/honda/bike2.png",
+        "site":"https://maruful-tamal-panda.netlify.app/",
+        "description":"1.this is many product collection. 2. the website help for people and user friendly. 3. this website are many new features are update. 4. first of all my service is good. 5.and this product customer review is happy."
+    }
+  
+  
+  
+ 
+]
